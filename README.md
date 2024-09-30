@@ -12,19 +12,6 @@ git clone github.com/AlumnoA/proyecto-web.git
 Alumno A:
 Crea un archivo index.html con la estructura básica de una página HTML:
 
-html
-Copiar código
-<!DOCTYPE html>
-<html lang="es">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Proyecto Web</title>
-</head>
-<body>
-    <h1>Bienvenidos a nuestro proyecto web</h1>
-</body>
-</html>
 Realiza un commit inicial:
 
 git add index.html
